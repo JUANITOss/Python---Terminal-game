@@ -1,0 +1,10 @@
+Nos gusta tu iniciativa muchacho. Funcionas bien bajo presión. Estamos en una fabrica en dónde 5 máquinas hacen 5 artículos en 5 minutos, ¿cuánto tiempo dedicarán 100 máquinas en hacer 100 artículos? Responde mal y apagaremos las luces de la cuidad. Tienes 5seg.
+
+Opciones:
+    1. 10min
+    2. 1min
+    3. 5min
+    4. 50min
+
+Pista para la final:
+    No es ni negativo ni positivo.
