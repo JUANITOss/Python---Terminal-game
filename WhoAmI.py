@@ -349,7 +349,7 @@ def friends():
         computadora = 'v'
     elif randNum[1] == 2:
         computadora = 't'
-    elif randNum[2] == 3:
+    else:
         computadora = 'r'
     return computadora
 
